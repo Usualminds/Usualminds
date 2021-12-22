@@ -4,6 +4,6 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [浏览器指纹及其应用](https://www.qjidea.com/browser_finger/)
-- [[译] 使用 Husky 和 Hooks 保证 JavaScript 代码质量](https://www.qjidea.com/husky-hooks/)
+- [[转]工程和工程科学](https://www.qjidea.com/science-in-qian/)
+- [[译] Webpack Stats Data](https://www.qjidea.com/webpack-stats-data/)
 <!-- BLOG-POST-LIST:END -->
