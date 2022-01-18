@@ -4,6 +4,6 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [聊聊动态规划](https://www.qjidea.com/dp_1/)
+- [聊聊动态规划](https://www.qjidea.com/dp1/)
 - [密码保护：2021 年结语](https://www.qjidea.com/2021-summary/)
 <!-- BLOG-POST-LIST:END -->
