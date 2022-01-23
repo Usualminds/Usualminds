@@ -6,4 +6,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [聊聊动态规划](https://www.qjidea.com/dp1/)
 - [密码保护：2021 年结语](https://www.qjidea.com/2021-summary/)
+- [[转]工程和工程科学](https://www.qjidea.com/science-in-qian/)
+- [[译] Webpack Stats Data](https://www.qjidea.com/webpack-stats-data/)
 <!-- BLOG-POST-LIST:END -->
