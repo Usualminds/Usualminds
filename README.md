@@ -4,8 +4,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LRU 与 LFU](https://www.qjidea.com/lrulfu/)
 - [字符串问题解析](https://www.qjidea.com/string/)
 - [新一代包管理工具 pnpm](https://www.qjidea.com/pnpm/)
 - [聊聊动态规划](https://www.qjidea.com/dp1/)
-- [密码保护：2021 年结语](https://www.qjidea.com/2021-summary/)
 <!-- BLOG-POST-LIST:END -->
