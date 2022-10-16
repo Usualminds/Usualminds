@@ -4,8 +4,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [IOS 开发第一弹-环境构建](https://www.qjidea.com/ios-%e5%bc%80%e5%8f%91%e7%ac%ac%e4%b8%80%e5%bc%b9-%e7%8e%af%e5%a2%83%e6%9e%84%e5%bb%ba/)
 - [Nginx 那些事](https://www.qjidea.com/nginx/)
 - [一个有趣的博弈问题](https://www.qjidea.com/games/)
 - [LRU 与 LFU](https://www.qjidea.com/lrulfu/)
-- [字符串问题解析](https://www.qjidea.com/string/)
 <!-- BLOG-POST-LIST:END -->
