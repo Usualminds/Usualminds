@@ -3,8 +3,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [密码保护：2023年终总结](https://www.qjidea.com/2023_summary/)
 - [黑塞和他笔下的悉达多](https://www.qjidea.com/heisai/)
 - [图片处理工具 Smart Picture](https://www.qjidea.com/smart-picture/)
 - [毛姆和他的几个观点](https://www.qjidea.com/maom-thinking/)
-- [为什么学生不喜欢上学（二）](https://www.qjidea.com/not_like_lesson2/)
 <!-- BLOG-POST-LIST:END -->
