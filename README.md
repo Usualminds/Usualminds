@@ -3,8 +3,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [我走过摇摇晃晃的人间](https://www.qjidea.com/poem-y/)
 - [马斯克传](https://www.qjidea.com/elon/)
 - [辛波斯卡和她笔下的诗意人生](https://www.qjidea.com/anna/)
 - [诗人与世界](https://www.qjidea.com/poet_world/)
-- [教育与美好生活](https://www.qjidea.com/education-life/)
 <!-- BLOG-POST-LIST:END -->
